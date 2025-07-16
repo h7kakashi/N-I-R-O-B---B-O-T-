@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "ahmedzayan102@gmail.com",
-    "password": "910@12340",
+    "email": "",
+    "password": "",
     "2FASecret": "hxhjdjj",
     "i_user": "",
     "proxy": null,
@@ -21,7 +21,7 @@
   },
   "adminBot": [
   
-    "61574046213712",
+    "61572240295227",
     "",
     "",
     "",
@@ -30,7 +30,7 @@
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61574046213712",
+    "whiteListIds": ["61572240295227",
 "",
       ""
     ],
